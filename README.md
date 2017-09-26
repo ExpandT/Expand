@@ -15,6 +15,9 @@ Expand is Proof-of-Stake (PoS) smart contract token on Ethereum. It's based on t
 * **Distribution**: ICO
 * **Minimum Coin Age**: 3 Days
 * **Maximum Coin Age**: 90 Days
-
+  + 1st Year Interest: 100%
+  + 2nd Year Interest: 50%
+  + 3rd - 15th Year Interest: 10%
+  
 ## Resource
 **[Website](https://expandt.co)** | **[Twitter](https://twitter.com/ExpandToken)** | **[Telegram Channel](https://t.me/expandofficial)** | **[Medium](https://medium.com/@Expand)** |
